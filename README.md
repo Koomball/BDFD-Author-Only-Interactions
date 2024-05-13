@@ -1,4 +1,4 @@
-# BDFD-Author-Only-Interactions
+# `BDFD` Author Only Interactions
 Two methods for author only interactions.
 
 ## $authorID in $customID
